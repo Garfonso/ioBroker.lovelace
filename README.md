@@ -469,7 +469,7 @@ After that checkout modified version in `./build` folder. Then.
 	### **WORK IN PROGRESS**
 -->
 ### **WORK IN PROGRESS**
-
+* (Garfonso) Prevent crash while creating light entity
 
 ### 2.0.5 (2021-08-20)
 * (Garfonso) Add manual entity support for geo_location (inofficial currently)
